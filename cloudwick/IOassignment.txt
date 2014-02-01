@@ -1,0 +1,6 @@
+1,saikiran,parepally,94536
+2,balaji,G,74075
+3,vinod,B,94536
+4,sandeep,v,94536
+5,su,n,500067
+6,ven,Gi,94536

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Person>
+	<Employee type="executive">
+		<id>123</id>
+		<name>sai</name>
+		<age>24</age>
+	</Employee>
+	<Employee type="manager">
+		<id>456</id>
+		<name>kiran</name>
+		<age>23</age>
+	</Employee>
+	<Employee type="developer">
+		<id>789</id>
+		<name>parepal</name>
+		<age>25</age>
+	</Employee>
+
+
+
+		</Person>
